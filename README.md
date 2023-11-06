@@ -46,3 +46,4 @@
 Please use this script responsibly, and ensure that you have the necessary permissions to create folders in the chosen location. If you encounter any issues or have questions, feel free to raise an issue.
 
 Happy organizing!
+<img src="https://media.tenor.com/13StwXW1Pk8AAAAi/cute-please.gif" width="60px">
